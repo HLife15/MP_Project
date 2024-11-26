@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="logos">
+        <item>@drawable/def</item>
+
+        <item>@drawable/ars</item>
+        <item>@drawable/avl</item>
+        <item>@drawable/bou</item>
+        <item>@drawable/bre</item>
+        <item>@drawable/bha</item>
+
+        <item>@drawable/che</item>
+        <item>@drawable/cry</item>
+        <item>@drawable/eve</item>
+        <item>@drawable/ful</item>
+        <item>@drawable/ips</item>
+
+        <item>@drawable/lei</item>
+        <item>@drawable/liv</item>
+        <item>@drawable/mci</item>
+        <item>@drawable/mun</item>
+        <item>@drawable/nca</item>
+
+        <item>@drawable/nfo</item>
+        <item>@drawable/sou</item>
+        <item>@drawable/tot</item>
+        <item>@drawable/whu</item>
+        <item>@drawable/wol</item>
+    </array>
+</resources>
