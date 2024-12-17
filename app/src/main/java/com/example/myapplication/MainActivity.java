@@ -122,8 +122,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[19], "13R", teams_short[19], "2024-12-01 Sun", "02:30", stadiums[19], scores[2], scores[5], results[0]);
                         setMatch(schedules, logos[14], "14R", teams_short[14], "2024-12-05 Thu", "05:15", stadiums[1], scores[2], scores[0], results[0]);
-                        setMatch(schedules, logos[9], "15R", teams_short[9], "2024-12-08 Sun", "23:00", stadiums[9]);
-                        setMatch(schedules, logos[8], "16R", teams_short[8], "2024-12-15 Sun", "00:00", stadiums[1]);
+                        setMatch(schedules, logos[9], "15R", teams_short[9], "2024-12-08 Sun", "23:00", stadiums[9], scores[1], scores[1], results[1]);
+                        setMatch(schedules, logos[8], "16R", teams_short[8], "2024-12-15 Sun", "00:00", stadiums[1], scores[0], scores[0], results[1]);
                         setMatch(schedules, logos[7], "17R", teams_short[7], "2024-12-22 Sun", "02:30", stadiums[7]);
                         setMatch(schedules, logos[10], "18R", teams_short[10], "2024-12-28 Sat", "05:15", stadiums[1]);
 
@@ -179,8 +179,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[6], "13R", teams_short[6], "2024-12-01 Sun", "22:30", stadiums[6], scores[3], scores[0], results[2]);
                         setMatch(schedules, logos[4], "14R", teams_short[4], "2024-12-05 Thu", "05:15", stadiums[2], scores[3], scores[1], results[0]);
-                        setMatch(schedules, logos[17], "15R", teams_short[17], "2024-12-08 Sun", "00:00", stadiums[2]);
-                        setMatch(schedules, logos[16], "16R", teams_short[16], "2024-12-15 Sun", "02:30", stadiums[16]);
+                        setMatch(schedules, logos[17], "15R", teams_short[17], "2024-12-08 Sun", "00:00", stadiums[2], scores[1], scores[0], results[0]);
+                        setMatch(schedules, logos[16], "16R", teams_short[16], "2024-12-15 Sun", "02:30", stadiums[16], scores[2], scores[1], results[2]);
                         setMatch(schedules, logos[13], "17R", teams_short[13], "2024-12-21 Sat", "21:30", stadiums[2]);
                         setMatch(schedules, logos[15], "18R", teams_short[15], "2024-12-27 Fri", "00:00", stadiums[15]);
                         setMatch(schedules, logos[5], "19R", teams_short[5], "2024-12-31 Tue", "04:45", stadiums[2]);
@@ -235,9 +235,9 @@ public class MainActivity extends AppCompatActivity {
                         setMatch(schedules, logos[5], "12R", teams_short[5], "2024-11-24 Sun", "00:00", stadiums[3], scores[1], scores[2], results[2]);
 
                         setMatch(schedules, logos[20], "13R", teams_short[20], "2024-12-01 Sun", "00:00", stadiums[20], scores[2], scores[4], results[0]);
-                        setMatch(schedules, logos[18], "14R", teams_short[18], "2024-12-06 Fri", "05:15", stadiums[3]);
-                        setMatch(schedules, logos[10], "15R", teams_short[10], "2024-12-08 Sun", "23:00", stadiums[10]);
-                        setMatch(schedules, logos[19], "16R", teams_short[19], "2024-12-17 Tue", "05:00", stadiums[3]);
+                        setMatch(schedules, logos[18], "14R", teams_short[18], "2024-12-06 Fri", "05:15", stadiums[3], scores[1], scores[0], results[0]);
+                        setMatch(schedules, logos[10], "15R", teams_short[10], "2024-12-08 Sun", "23:00", stadiums[10], scores[1], scores[2], results[0]);
+                        setMatch(schedules, logos[19], "16R", teams_short[19], "2024-12-17 Tue", "05:00", stadiums[3], scores[1], scores[1], results[1]);
                         setMatch(schedules, logos[14], "17R", teams_short[14], "2024-12-22 Sun", "23:00", stadiums[14]);
                         setMatch(schedules, logos[7], "18R", teams_short[7], "2024-12-27 Fri", "00:00", stadiums[3]);
                         setMatch(schedules, logos[9], "19R", teams_short[9], "2024-12-30 Mon", "00:00", stadiums[9]);
@@ -293,8 +293,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[11], "13R", teams_short[11], "2024-12-01 Sun", "00:00", stadiums[4], scores[4], scores[1], results[0]);
                         setMatch(schedules, logos[2], "14R", teams_short[2], "2024-12-05 Thu", "05:15", stadiums[2], scores[3], scores[1], results[2]);
-                        setMatch(schedules, logos[15], "15R", teams_short[15], "2024-12-08 Sun", "00:00", stadiums[4]);
-                        setMatch(schedules, logos[6], "16R", teams_short[6], "2024-12-16 Mon", "04:00", stadiums[6]);
+                        setMatch(schedules, logos[15], "15R", teams_short[15], "2024-12-08 Sun", "00:00", stadiums[4], scores[4], scores[2], results[0]);
+                        setMatch(schedules, logos[6], "16R", teams_short[6], "2024-12-16 Mon", "04:00", stadiums[6], scores[2], scores[1], results[2]);
                         setMatch(schedules, logos[16], "17R", teams_short[16], "2024-12-22 Sun", "00:00", stadiums[4]);
                         setMatch(schedules, logos[5], "18R", teams_short[5], "2024-12-28 Sat", "04:00", stadiums[5]);
 
@@ -349,9 +349,9 @@ public class MainActivity extends AppCompatActivity {
                         setMatch(schedules, logos[3], "12R", teams_short[3], "2024-11-24 Sun", "00:00", stadiums[3], scores[1], scores[2], results[0]);
                         setMatch(schedules, logos[17], "13R", teams_short[17], "2024-11-30 Sat", "05:00", stadiums[5], scores[1], scores[1], results[1]);
 
-                        setMatch(schedules, logos[9], "14R", teams_short[9], "2024-12-06 Fri", "04:30", stadiums[9]);
-                        setMatch(schedules, logos[11], "15R", teams_short[11], "2024-12-08 Sun", "23:00", stadiums[11]);
-                        setMatch(schedules, logos[7], "16R", teams_short[7], "2024-12-15 Sun", "23:00", stadiums[5]);
+                        setMatch(schedules, logos[9], "14R", teams_short[9], "2024-12-06 Fri", "04:30", stadiums[9], scores[3], scores[1], results[2]);
+                        setMatch(schedules, logos[11], "15R", teams_short[11], "2024-12-08 Sun", "23:00", stadiums[11], scores[2], scores[2], results[1]);
+                        setMatch(schedules, logos[7], "16R", teams_short[7], "2024-12-15 Sun", "23:00", stadiums[5], scores[1], scores[3], results[2]);
                         setMatch(schedules, logos[19], "17R", teams_short[19], "2024-12-22 Sun", "00:00", stadiums[19]);
                         setMatch(schedules, logos[4], "18R", teams_short[4], "2024-12-28 Sat", "04:00", stadiums[5]);
                         setMatch(schedules, logos[2], "19R", teams_short[2], "2024-12-31 Tue", "04:45", stadiums[2]);
@@ -407,8 +407,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[2], "13R", teams_short[2], "2024-12-01 Sun", "22:30", stadiums[6], scores[3], scores[0], results[0]);
                         setMatch(schedules, logos[17], "14R", teams_short[17], "2024-12-05 Thu", "04:30", stadiums[17], scores[1], scores[5], results[0]);
-                        setMatch(schedules, logos[18], "15R", teams_short[18], "2024-12-09 Mon", "01:30", stadiums[18]);
-                        setMatch(schedules, logos[4], "16R", teams_short[4], "2024-12-16 Mon", "04:00", stadiums[6]);
+                        setMatch(schedules, logos[18], "15R", teams_short[18], "2024-12-09 Mon", "01:30", stadiums[18], scores[3], scores[4], results[0]);
+                        setMatch(schedules, logos[4], "16R", teams_short[4], "2024-12-16 Mon", "04:00", stadiums[6], scores[2], scores[1], results[0]);
                         setMatch(schedules, logos[8], "17R", teams_short[8], "2024-12-22 Sun", "23:00", stadiums[8]);
                         setMatch(schedules, logos[9], "18R", teams_short[9], "2024-12-27 Fri", "00:00", stadiums[6]);
                         setMatch(schedules, logos[10], "19R", teams_short[10], "2024-12-31 Tue", "04:45", stadiums[10]);
@@ -464,8 +464,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[15], "13R", teams_short[15], "2024-12-01 Sun", "00:00", stadiums[7], scores[1], scores[1], results[1]);
                         setMatch(schedules, logos[10], "14R", teams_short[10], "2024-12-04 Wed", "04:30", stadiums[10], scores[0], scores[1], results[0]);
-                        setMatch(schedules, logos[13], "15R", teams_short[13], "2024-12-08 Sun", "00:00", stadiums[7]);
-                        setMatch(schedules, logos[5], "16R", teams_short[5], "2024-12-15 Sun", "23:00", stadiums[5]);
+                        setMatch(schedules, logos[13], "15R", teams_short[13], "2024-12-08 Sun", "00:00", stadiums[7], scores[2], scores[2], results[1]);
+                        setMatch(schedules, logos[5], "16R", teams_short[5], "2024-12-15 Sun", "23:00", stadiums[5], scores[1], scores[3], results[0]);
                         setMatch(schedules, logos[1], "17R", teams_short[1], "2024-12-22 Sun", "02:30", stadiums[7]);
                         setMatch(schedules, logos[3], "18R", teams_short[3], "2024-12-27 Fri", "00:00", stadiums[3]);
                         setMatch(schedules, logos[17], "19R", teams_short[17], "2024-12-30 Mon", "00:00", stadiums[7]);
@@ -521,8 +521,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[14], "13R", teams_short[14], "2024-12-01 Sun", "22:30", stadiums[14], scores[4], scores[0], results[2]);
                         setMatch(schedules, logos[20], "14R", teams_short[20], "2024-12-05 Thu", "04:30", stadiums[8], scores[4], scores[0], results[0]);
-                        setMatch(schedules, logos[12], "15R", teams_short[12], "2024-12-07 Sat", "21:30", stadiums[8]);
-                        setMatch(schedules, logos[1], "16R", teams_short[1], "2024-12-15 Sun", "00:00", stadiums[1]);
+                        setMatch(schedules, logos[12], "15R", teams_short[12], "Postponed", "-", stadiums[8]);
+                        setMatch(schedules, logos[1], "16R", teams_short[1], "2024-12-15 Sun", "00:00", stadiums[1], scores[0], scores[0], results[1]);
                         setMatch(schedules, logos[6], "17R", teams_short[6], "2024-12-22 Sun", "23:00", stadiums[8]);
                         setMatch(schedules, logos[13], "18R", teams_short[13], "2024-12-26 Thu", "21:30", stadiums[13]);
                         setMatch(schedules, logos[16], "19R", teams_short[16], "2024-12-30 Mon", "00:00", stadiums[8]);
@@ -577,9 +577,9 @@ public class MainActivity extends AppCompatActivity {
                         setMatch(schedules, logos[20], "12R", teams_short[20], "2024-11-24 Sun", "00:00", stadiums[9], scores[1], scores[4], results[2]);
 
                         setMatch(schedules, logos[18], "13R", teams_short[18], "2024-12-01 Sun", "22:30", stadiums[18], scores[1], scores[1], results[1]);
-                        setMatch(schedules, logos[5], "14R", teams_short[5], "2024-12-06 Fri", "04:30", stadiums[9]);
-                        setMatch(schedules, logos[1], "15R", teams_short[1], "2024-12-08 Sun", "23:00", stadiums[9]);
-                        setMatch(schedules, logos[12], "16R", teams_short[12], "2024-12-15 Sun", "00:00", stadiums[12]);
+                        setMatch(schedules, logos[5], "14R", teams_short[5], "2024-12-06 Fri", "04:30", stadiums[9], scores[3], scores[1], results[0]);
+                        setMatch(schedules, logos[1], "15R", teams_short[1], "2024-12-08 Sun", "23:00", stadiums[9], scores[1], scores[1], results[1]);
+                        setMatch(schedules, logos[12], "16R", teams_short[12], "2024-12-15 Sun", "00:00", stadiums[12], scores[2], scores[2], results[1]);
                         setMatch(schedules, logos[17], "17R", teams_short[17], "2024-12-22 Sun", "23:00", stadiums[9]);
                         setMatch(schedules, logos[6], "18R", teams_short[6], "2024-12-27 Fri", "00:00", stadiums[6]);
                         setMatch(schedules, logos[3], "19R", teams_short[3], "2024-12-30 Mon", "00:00", stadiums[9]);
@@ -635,8 +635,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[16], "13R", teams_short[16], "2024-12-01 Sun", "00:00", stadiums[16], scores[1], scores[0], results[2]);
                         setMatch(schedules, logos[7], "14R", teams_short[7], "2024-12-04 Wed", "04:30", stadiums[10], scores[0], scores[1], results[2]);
-                        setMatch(schedules, logos[3], "15R", teams_short[3], "2024-12-08 Sun", "23:00", stadiums[10]);
-                        setMatch(schedules, logos[20], "16R", teams_short[20], "2024-12-15 Sun", "00:00", stadiums[20]);
+                        setMatch(schedules, logos[3], "15R", teams_short[3], "2024-12-08 Sun", "23:00", stadiums[10], scores[1], scores[2], results[2]);
+                        setMatch(schedules, logos[20], "16R", teams_short[20], "2024-12-15 Sun", "00:00", stadiums[20], scores[1], scores[2], results[0]);
                         setMatch(schedules, logos[15], "17R", teams_short[15], "2024-12-22 Sun", "00:00", stadiums[10]);
                         setMatch(schedules, logos[1], "18R", teams_short[1], "2024-12-28 Sat", "05:15", stadiums[1]);
                         setMatch(schedules, logos[6], "19R", teams_short[6], "2024-12-31 Tue", "04:45", stadiums[10]);
@@ -691,8 +691,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[4], "13R", teams_short[4], "2024-12-01 Sun", "00:00", stadiums[4], scores[4], scores[1], results[2]);
                         setMatch(schedules, logos[19], "14R", teams_short[19], "2024-12-04 Wed", "05:15", stadiums[11], scores[3], scores[1], results[0]);
-                        setMatch(schedules, logos[5], "15R", teams_short[5], "2024-12-08 Sun", "23:00", stadiums[11]);
-                        setMatch(schedules, logos[15], "16R", teams_short[15], "2024-12-15 Sun", "00:00", stadiums[15]);
+                        setMatch(schedules, logos[5], "15R", teams_short[5], "2024-12-08 Sun", "23:00", stadiums[11], scores[2], scores[2], results[1]);
+                        setMatch(schedules, logos[15], "16R", teams_short[15], "2024-12-15 Sun", "00:00", stadiums[15], scores[4], scores[0], results[2]);
                         setMatch(schedules, logos[20], "17R", teams_short[20], "2024-12-22 Sun", "23:00", stadiums[11]);
                         setMatch(schedules, logos[12], "18R", teams_short[12], "2024-12-27 Fri", "05:00", stadiums[12]);
                         setMatch(schedules, logos[13], "19R", teams_short[13], "2024-12-29 Sun", "23:30", stadiums[11]);
@@ -748,8 +748,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[13], "13R", teams_short[13], "2024-12-02 Mon", "01:00", stadiums[12], scores[2], scores[0], results[0]);
                         setMatch(schedules, logos[15], "14R", teams_short[15], "2024-12-05 Thu", "04:00", stadiums[15], scores[3], scores[3], results[1]);
-                        setMatch(schedules, logos[8], "15R", teams_short[8], "2024-12-07 Sat", "21:30", stadiums[8]);
-                        setMatch(schedules, logos[9], "16R", teams_short[9], "2024-12-15 Sun", "00:00", stadiums[12]);
+                        setMatch(schedules, logos[8], "15R", teams_short[8], "Postponed", "-", stadiums[8]);
+                        setMatch(schedules, logos[9], "16R", teams_short[9], "2024-12-15 Sun", "00:00", stadiums[12], scores[2], scores[2], results[1]);
                         setMatch(schedules, logos[18], "17R", teams_short[18], "2024-12-23 Mon", "01:30", stadiums[18]);
                         setMatch(schedules, logos[11], "18R", teams_short[11], "2024-12-27 Fri", "05:00", stadiums[12]);
                         setMatch(schedules, logos[19], "19R", teams_short[19], "2024-12-30 Mon", "02:15", stadiums[19]);
@@ -804,8 +804,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[12], "13R", teams_short[12], "2024-12-02 Mon", "01:00", stadiums[12], scores[2], scores[0], results[2]);
                         setMatch(schedules, logos[16], "14R", teams_short[16], "2024-12-05 Thu", "04:30", stadiums[13], scores[3], scores[0], results[0]);
-                        setMatch(schedules, logos[7], "15R", teams_short[7], "2024-12-08 Sun", "00:00", stadiums[7]);
-                        setMatch(schedules, logos[14], "16R", teams_short[14], "2024-12-16 Mon", "01:30", stadiums[13]);
+                        setMatch(schedules, logos[7], "15R", teams_short[7], "2024-12-08 Sun", "00:00", stadiums[7], scores[2], scores[2], results[1]);
+                        setMatch(schedules, logos[14], "16R", teams_short[14], "2024-12-16 Mon", "01:30", stadiums[13], scores[1], scores[2], results[2]);
                         setMatch(schedules, logos[2], "17R", teams_short[2], "2024-12-21 Sat", "21:30", stadiums[2]);
                         setMatch(schedules, logos[8], "18R", teams_short[8], "2024-12-26 Thu", "21:30", stadiums[13]);
                         setMatch(schedules, logos[11], "19R", teams_short[11], "2024-12-29 Sun", "23:30", stadiums[11]);
@@ -861,8 +861,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[8], "13R", teams_short[8], "2024-12-01 Sun", "22:30", stadiums[14], scores[4], scores[0], results[0]);
                         setMatch(schedules, logos[1], "14R", teams_short[1], "2024-12-05 Thu", "05:15", stadiums[1], scores[2], scores[0], results[2]);
-                        setMatch(schedules, logos[16], "15R", teams_short[16], "2024-12-08 Sun", "02:30", stadiums[14]);
-                        setMatch(schedules, logos[13], "16R", teams_short[13], "2024-12-16 Mon", "01:30", stadiums[13]);
+                        setMatch(schedules, logos[16], "15R", teams_short[16], "2024-12-08 Sun", "02:30", stadiums[14], scores[2], scores[3], results[2]);
+                        setMatch(schedules, logos[13], "16R", teams_short[13], "2024-12-16 Mon", "01:30", stadiums[13], scores[1], scores[2], results[0]);
                         setMatch(schedules, logos[3], "17R", teams_short[3], "2024-12-22 Sun", "23:00", stadiums[14]);
                         setMatch(schedules, logos[20], "18R", teams_short[20], "2024-12-27 Fri", "02:30", stadiums[20]);
                         setMatch(schedules, logos[15], "19R", teams_short[15], "2024-12-31 Tue", "05:00", stadiums[14]);
@@ -918,8 +918,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[7], "13R", teams_short[7], "2024-12-01 Sun", "00:00", stadiums[7], scores[1], scores[1], results[1]);
                         setMatch(schedules, logos[12], "14R", teams_short[12], "2024-12-05 Thu", "04:00", stadiums[15], scores[3], scores[3], results[1]);
-                        setMatch(schedules, logos[4], "15R", teams_short[4], "2024-12-08 Sun", "00:00", stadiums[4]);
-                        setMatch(schedules, logos[11], "16R", teams_short[11], "2024-12-15 Sun", "00:00", stadiums[15]);
+                        setMatch(schedules, logos[4], "15R", teams_short[4], "2024-12-08 Sun", "00:00", stadiums[4], scores[4], scores[2], results[2]);
+                        setMatch(schedules, logos[11], "16R", teams_short[11], "2024-12-15 Sun", "00:00", stadiums[15], scores[4], scores[0], results[0]);
                         setMatch(schedules, logos[10], "17R", teams_short[10], "2024-12-22 Sun", "00:00", stadiums[10]);
                         setMatch(schedules, logos[2], "18R", teams_short[2], "2024-12-27 Fri", "00:00", stadiums[15]);
                         setMatch(schedules, logos[14], "19R", teams_short[14], "2024-12-31 Tue", "05:00", stadiums[14]);
@@ -975,8 +975,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[10], "13R", teams_short[10], "2024-12-01 Sun", "00:00", stadiums[16], scores[1], scores[0], results[0]);
                         setMatch(schedules, logos[13], "14R", teams_short[13], "2024-12-05 Thu", "04:30", stadiums[13], scores[3], scores[0], results[2]);
-                        setMatch(schedules, logos[14], "15R", teams_short[14], "2024-12-08 Sun", "02:30", stadiums[14]);
-                        setMatch(schedules, logos[2], "16R", teams_short[2], "2024-12-15 Sun", "02:30", stadiums[16]);
+                        setMatch(schedules, logos[14], "15R", teams_short[14], "2024-12-08 Sun", "02:30", stadiums[14], scores[2], scores[3], results[0]);
+                        setMatch(schedules, logos[2], "16R", teams_short[2], "2024-12-15 Sun", "02:30", stadiums[16], scores[2], scores[1], results[0]);
                         setMatch(schedules, logos[4], "17R", teams_short[4], "2024-12-22 Sun", "00:00", stadiums[4]);
                         setMatch(schedules, logos[18], "18R", teams_short[18], "2024-12-27 Fri", "00:00", stadiums[16]);
                         setMatch(schedules, logos[8], "19R", teams_short[8], "2024-12-30 Mon", "00:00", stadiums[8]);
@@ -1032,8 +1032,8 @@ public class MainActivity extends AppCompatActivity {
                         setMatch(schedules, logos[5], "13R", teams_short[5], "2024-11-30 Sat", "05:00", stadiums[5], scores[1], scores[1], results[1]);
 
                         setMatch(schedules, logos[6], "14R", teams_short[6], "2024-12-05 Thu", "04:30", stadiums[17], scores[1], scores[5], results[2]);
-                        setMatch(schedules, logos[2], "15R", teams_short[2], "2024-12-08 Sun", "00:00", stadiums[2]);
-                        setMatch(schedules, logos[18], "16R", teams_short[18], "2024-12-16 Mon", "04:00", stadiums[17]);
+                        setMatch(schedules, logos[2], "15R", teams_short[2], "2024-12-08 Sun", "00:00", stadiums[2], scores[1], scores[0], results[2]);
+                        setMatch(schedules, logos[18], "16R", teams_short[18], "2024-12-16 Mon", "04:00", stadiums[17], scores[0], scores[5], results[2]);
                         setMatch(schedules, logos[9], "17R", teams_short[9], "2024-12-22 Sun", "23:00", stadiums[9]);
                         setMatch(schedules, logos[19], "18R", teams_short[19], "2024-12-27 Fri", "00:00", stadiums[17]);
                         setMatch(schedules, logos[7], "19R", teams_short[7], "2024-12-30 Mon", "00:00", stadiums[7]);
@@ -1087,9 +1087,9 @@ public class MainActivity extends AppCompatActivity {
                         setMatch(schedules, logos[13], "12R", teams_short[13], "2024-11-24 Sun", "02:30", stadiums[13], scores[0], scores[4], results[0]);
 
                         setMatch(schedules, logos[9], "13R", teams_short[9], "2024-12-01 Sun", "22:30", stadiums[18], scores[1], scores[1], results[1]);
-                        setMatch(schedules, logos[3], "14R", teams_short[3], "2024-12-06 Fri", "05:15", stadiums[3]);
-                        setMatch(schedules, logos[6], "15R", teams_short[6], "2024-12-09 Mon", "01:30", stadiums[18]);
-                        setMatch(schedules, logos[17], "16R", teams_short[17], "2024-12-16 Mon", "04:00", stadiums[17]);
+                        setMatch(schedules, logos[3], "14R", teams_short[3], "2024-12-06 Fri", "05:15", stadiums[3], scores[1], scores[0], results[2]);
+                        setMatch(schedules, logos[6], "15R", teams_short[6], "2024-12-09 Mon", "01:30", stadiums[18], scores[3], scores[4], results[2]);
+                        setMatch(schedules, logos[17], "16R", teams_short[17], "2024-12-16 Mon", "04:00", stadiums[17], scores[0], scores[5], results[0]);
                         setMatch(schedules, logos[12], "17R", teams_short[12], "2024-12-23 Mon", "01:30", stadiums[18]);
                         setMatch(schedules, logos[16], "18R", teams_short[16], "2024-12-27 Fri", "00:00", stadiums[16]);
                         setMatch(schedules, logos[20], "19R", teams_short[20], "2024-12-30 Mon", "00:00", stadiums[18]);
@@ -1145,8 +1145,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[1], "13R", teams_short[1], "2024-12-01 Sun", "02:30", stadiums[19], scores[2], scores[5], results[2]);
                         setMatch(schedules, logos[11], "14R", teams_short[11], "2024-12-04 Wed", "05:15", stadiums[11], scores[3], scores[1], results[2]);
-                        setMatch(schedules, logos[20], "15R", teams_short[20], "2024-12-10 Tue", "05:00", stadiums[19]);
-                        setMatch(schedules, logos[3], "16R", teams_short[3], "2024-12-17 Tue", "05:00", stadiums[3]);
+                        setMatch(schedules, logos[20], "15R", teams_short[20], "2024-12-10 Tue", "05:00", stadiums[19], scores[2], scores[1], results[0]);
+                        setMatch(schedules, logos[3], "16R", teams_short[3], "2024-12-17 Tue", "05:00", stadiums[3], scores[1], scores[1], results[1]);
                         setMatch(schedules, logos[5], "17R", teams_short[5], "2024-12-22 Sun", "00:00", stadiums[19]);
                         setMatch(schedules, logos[17], "18R", teams_short[17], "2024-12-27 Fri", "00:00", stadiums[17]);
                         setMatch(schedules, logos[12], "19R", teams_short[12], "2024-12-30 Mon", "02:15", stadiums[19]);
@@ -1201,8 +1201,8 @@ public class MainActivity extends AppCompatActivity {
 
                         setMatch(schedules, logos[3], "13R", teams_short[3], "2024-12-01 Sun", "00:00", stadiums[20], scores[2], scores[4], results[2]);
                         setMatch(schedules, logos[8], "14R", teams_short[8], "2024-12-05 Thu", "04:30", stadiums[8], scores[4], scores[0], results[2]);
-                        setMatch(schedules, logos[19], "15R", teams_short[19], "2024-12-10 Tue", "05:00", stadiums[19]);
-                        setMatch(schedules, logos[10], "16R", teams_short[10], "2024-12-15 Sun", "00:00", stadiums[20]);
+                        setMatch(schedules, logos[19], "15R", teams_short[19], "2024-12-10 Tue", "05:00", stadiums[19], scores[2], scores[1], results[2]);
+                        setMatch(schedules, logos[10], "16R", teams_short[10], "2024-12-15 Sun", "00:00", stadiums[20], scores[1], scores[2], results[2]);
                         setMatch(schedules, logos[11], "17R", teams_short[11], "2024-12-22 Sun", "23:00", stadiums[11]);
                         setMatch(schedules, logos[14], "18R", teams_short[14], "2024-12-27 Fri", "02:30", stadiums[20]);
                         setMatch(schedules, logos[18], "19R", teams_short[18], "2024-12-30 Mon", "00:00", stadiums[18]);
